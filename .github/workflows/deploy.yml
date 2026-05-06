@@ -12,7 +12,7 @@ jobs:
      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     defaults:
      run:
-      working-deirectory: Now   
+      working-directory: Now   
     steps:
       - name: Checkout
         uses: actions/checkout@v4
