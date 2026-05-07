@@ -34,7 +34,11 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: false, // we’ll use standalone pages (like Isaac) instead of docs sidebar
+        //docs: false, // we’ll use standalone pages (like Isaac) instead of docs sidebar
+	docs:{
+	 routeBasePath: "docs",
+	 sidebarPath: require.resolve("./sidebars.js"),
+	},
         blog: {
           routeBasePath: "blog",
           showReadingTime: true,
