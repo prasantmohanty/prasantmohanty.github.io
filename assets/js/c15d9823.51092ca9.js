@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknow=globalThis.webpackChunknow||[]).push([[8146],{9328(e){e.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Notes on AI, engineering leadership, and platform building.","blogTitle":"Blog"}}')}}]);
