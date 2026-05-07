@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Prasanta Mohanty — Blog</title>
+        <link>https://prasantmohanty.github.io/Now/blog</link>
+        <description>Blog feed: AI, platforms, security, and engineering leadership.</description>
+        <lastBuildDate>Sun, 26 Apr 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <copyright>Copyright © 2026 Prasanta Mohanty.</copyright>
+        <item>
+            <title><![CDATA[Tokenmaxxing When More AI Tokens Start Meaning Less Value]]></title>
+            <link>https://prasantmohanty.github.io/Now/blog/Tokenmaxxing</link>
+            <guid>https://prasantmohanty.github.io/Now/blog/Tokenmaxxing</guid>
+            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Why the race to “use more AI” is quietly becoming one of the most expensive anti-patterns in modern engineering.]]></description>
+            <content:encoded><![CDATA[<p>Why the race to “use more AI” is quietly becoming one of the most expensive anti-patterns in modern engineering.</p>
+<p>AI adoption in enterprises has entered a new phase. The question is no longer whether teams use AI, but how much. And in that shift, a strange and worrying behavior has emerged: tokenmaxxing.</p>
+<!-- -->
+<p>Tokenmaxxing refers to the deliberate inflation of AI token usage—not to create business value, but to appear more “AI-native,” productive, or aligned with leadership metrics. This trend is spreading rapidly across Big Tech, quietly burning millions of dollars while often delivering little real output . Its a practice of maximizing AI token consumption intentionally in order to:
+Look more productive or “AI-first”
+Score higher on internal dashboards or leaderboards
+Avoid being labeled as “underusing AI”
+Meet minimum AI spending targets
+Signal alignment with management’s AI transformation push</p>
+<p>The most striking example is Meta, where employees reportedly consumed 60.2 trillion AI tokens in just 30 days—an amount that would cost close to $900M at standard AI API pricing. Even with internal discounts, the estimated spend could still exceed $100M, much of it driven by non-essential usage driven by gamified incentives Meta AI token leaderboard</p>
+<p>Similarly Microsoft introduced internal token dashboards intended to encourage experimentation. Over time, however, they became perceived as performance signals. Engineers admitted to inflating token usage simply to avoid standing out as “low AI users.” Reported behaviors included</p>
+<p>Now the changes committed</p>]]></content:encoded>
+            <category>Tokenmaxxing</category>
+        </item>
+        <item>
+            <title><![CDATA[The Shockwave of Anthropic Claude Opus 4.6 and What It Means for DORA’s 2025 Findings]]></title>
+            <link>https://prasantmohanty.github.io/Now/blog/anthropicshockwave</link>
+            <guid>https://prasantmohanty.github.io/Now/blog/anthropicshockwave</guid>
+            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Last week, something extraordinary happened in the AI world — an event so disruptive that it sent financial data companies and software markets into freefall. Anthropic’s surprise release of Claude Opus 4.6 did not just push technological boundaries; it reshaped investor sentiment, rattled enterprise software giants, and validated core warnings from the 2025 DORA Report]]></description>
+            <content:encoded><![CDATA[<p>Last week, something extraordinary happened in the AI world — an event so disruptive that it sent financial data companies and software markets into freefall. Anthropic’s surprise release of Claude Opus 4.6 did not just push technological boundaries; it reshaped investor sentiment, rattled enterprise software giants, and validated core warnings from the 2025 DORA Report</p>
+<!-- -->
+<p>A Market Shockwave
+Within hours of the Opus 4.6 announcement:
+FactSet plunged 9.1%,
+S&amp;P Global fell 4.2%,
+Moody’s dropped 3.3%,</p>
+<p>Investors weren’t reacting to hype -they were reacting to fear: Claude Opus 4.6 is now the top performer on the Finance Agent benchmark, directly threatening entire analyst workflows previously guarded by legacy software.</p>]]></content:encoded>
+            <category>Anthropic</category>
+            <category>DORA</category>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://prasantmohanty.github.io/Now/blog/welcome</link>
+            <guid>https://prasantmohanty.github.io/Now/blog/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
+            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer" class="">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer" class="">blog plugin</a>.</p>
+<p>Here are a few tips you might find useful.</p>
+<!-- -->
+<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
+<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
+<p>The blog post date can be extracted from filenames, such as:</p>
+<ul>
+<li class=""><code>2019-05-30-welcome.md</code></li>
+<li class=""><code>2019-05-30-welcome/index.md</code></li>
+</ul>
+<p>A blog post folder can be convenient to co-locate blog post images:</p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://prasantmohanty.github.io/Now/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p>The blog supports tags as well!</p>
+<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
+            <category>facebook</category>
+            <category>hello</category>
+            <category>docusaurus</category>
+        </item>
+    </channel>
+</rss>
