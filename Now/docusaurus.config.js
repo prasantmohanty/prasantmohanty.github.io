@@ -10,7 +10,8 @@ const config = {
 
   // Your GitHub Pages URL (user site) + project baseUrl (/Now/)
   url: "https://prasantmohanty.github.io",
-  baseUrl: "/Now/",
+  baseUrl: "/",
+  trailingSlash: true,
 
   // GitHub Pages deployment config
   organizationName: "prasantmohanty",
